@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Jan 2024 15:05:12 at https://themesbrand.com/velzon/html/master/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesbrand.com/velzon/html/master/ -O1 "C:\Users\DELL\Desktop\flex" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:22:40	Warning: 	Retry after error -4 (Incorrect length (32768 Bytes, 166738 expected)) at link https://themesbrand.com/velzon/html/master/assets/images/user-illustarator-2.png (from https://themesbrand.com/velzon/html/master/dashboard-analytics.html)
+15:22:40	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/master/ecommerce-product-detail.html (from https://themesbrand.com/velzon/html/master/apps-ecommerce-cart.html)
+15:22:41	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/assets/libs/prismjs/prism.js (from https://themesbrand.com/velzon/html/master/ui-links.html)
+15:22:41	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/assets/js/app.js (from https://themesbrand.com/velzon/html/master/ui-links.html)
+15:22:41	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/master/assets/libs/jsvectormap/maps/us-merc-en.js (from https://themesbrand.com/velzon/html/master/widgets.html)
+15:22:53	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/master/assets/libs/jsvectormap/maps/canada.js (from https://themesbrand.com/velzon/html/master/maps-vector.html)
+15:22:53	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/master/assets/libs/jsvectormap/maps/russia.js (from https://themesbrand.com/velzon/html/master/maps-vector.html)
+15:22:53	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/master/assets/libs/jsvectormap/maps/spain.js (from https://themesbrand.com/velzon/html/master/maps-vector.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 43 seconds : 1071 links scanned, 1062 files written (82533885 bytes overall) [35277999 bytes received at 33187 bytes/sec], 54081584 bytes transferred using HTTP compression in 405 files, ratio 11%, 13.5 requests per connection
+(7 errors, 1 warnings, 0 messages)
